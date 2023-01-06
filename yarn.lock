@@ -7548,7 +7548,7 @@ vue-client-only@^2.0.0:
   resolved "https://registry.yarnpkg.com/vue-client-only/-/vue-client-only-2.0.0.tgz#ddad8d675ee02c761a14229f0e440e219de1da1c"
   integrity sha512-arhk1wtWAfLsJyxGMoEYhoBowM87/i6HLSG2LH/03Yog6i2d9JEN1peMP0Ceis+/n9DxdenGYZZTxbPPJyHciA==
 
-vue-core-image-upload@^2.4.11:
+vue-core-image-upload@^2.4.13:
   version "2.4.13"
   resolved "https://registry.yarnpkg.com/vue-core-image-upload/-/vue-core-image-upload-2.4.13.tgz#357a7b283afdbf64288590eb6834df1ee9da6843"
   integrity sha512-xkm1tNQRcJ5FvyEnKpb9P30e3VmjOV3LPSX2sCZjAhZ1gcfqyrJ1lgNi8rxyn8YP1cf8LB1kwgzVb4NE8YoPGA==
